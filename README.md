@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vedant Gupta</h1>
 <h3 align="center">Backend-focused engineer | Java Spring Boot, PostgreSQL | Docker, CI/CD, cloud</h3>
 
-- 🔭 I’m currently working on [F1_Analytics](https://bit.ly/4czgKdj) & [MarketMind](https://github.com/VedantGupta-1405/MarketMind) &[URL_Shortener](https://github.com/VedantGupta-1405/URL_Shortener.git)  
+- 🔭 I’m currently working on [F1_Analytics](https://bit.ly/4czgKdj) & [MarketMind](https://github.com/VedantGupta-1405/MarketMind) & [URL_Shortener](https://github.com/VedantGupta-1405/URL_Shortener.git)  
 
 - 🌱 I’m currently learning **ReactJS**
 
